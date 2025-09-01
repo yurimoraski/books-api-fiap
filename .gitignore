@@ -1,0 +1,19 @@
+# Python
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.build/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dados temporários (ajuste se quiser manter)
+data/*.tmp
